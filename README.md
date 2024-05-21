@@ -3,9 +3,9 @@
 Deployed App Link : [chatbot-flow-builder-web-app](https://bitespeed-assignment-gray.vercel.app/)
 
 
-## 👨‍💻 Installation
+## 👨‍💻 Development
 
-Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install the app.
+Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to run the app locally.
 
 ```bash
 npm run dev
